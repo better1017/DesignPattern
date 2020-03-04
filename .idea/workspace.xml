@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2f1850e-83fa-4d4a-a535-7c310cf3e3a8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YflxXPPGHSbLJouJ2ItbsZO3IZ" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2f1850e-83fa-4d4a-a535-7c310cf3e3a8" name="Default Changelist" comment="" />
+      <created>1583341776404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583341776404</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="408" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1583341779375">
+      <screen x="0" y="0" width="1454" height="864" />
+    </state>
+    <state x="408" y="257" key="com.intellij.ide.util.TipDialog/0.0.1454.864@0.0.1454.864" timestamp="1583341779375" />
+  </component>
+</project>
