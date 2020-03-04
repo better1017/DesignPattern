@@ -13,7 +13,7 @@ public class Singleton01 {
      */
 
     // 把构造器声明为私有的，只有从Singleton类内部才可以调用构造器
-    public Singleton01() {
+    private Singleton01() {
     }
 
     //
