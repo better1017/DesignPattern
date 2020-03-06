@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2f1850e-83fa-4d4a-a535-7c310cf3e3a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/npu/yyl/pattern/singleton/ChocolateBoiler01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/npu/yyl/pattern/singleton/Singleton02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/npu/yyl/pattern/singleton/Singleton01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/npu/yyl/pattern/singleton/Singleton01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +38,11 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="npu.yyl.pattern.singleton" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -49,7 +53,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583341776404</updated>
-      <workItem from="1583341777959" duration="2035000" />
+      <workItem from="1583341777959" duration="2735000" />
+      <workItem from="1583386556739" duration="3563000" />
     </task>
     <servers />
   </component>
@@ -65,9 +70,9 @@
       <screen x="0" y="0" width="1454" height="864" />
     </state>
     <state x="533" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1454.864@0.0.1454.864" timestamp="1583343587049" />
-    <state x="408" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1583341779375">
+    <state x="408" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1583386557686">
       <screen x="0" y="0" width="1454" height="864" />
     </state>
-    <state x="408" y="257" key="com.intellij.ide.util.TipDialog/0.0.1454.864@0.0.1454.864" timestamp="1583341779375" />
+    <state x="408" y="257" key="com.intellij.ide.util.TipDialog/0.0.1454.864@0.0.1454.864" timestamp="1583386557686" />
   </component>
 </project>
